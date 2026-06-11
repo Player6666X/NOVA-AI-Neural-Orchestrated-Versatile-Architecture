@@ -1,15 +1,15 @@
 ```markdown
-# NOVA — Inteligência Artificial Autônoma e Leve
+# MERAKI — Inteligência Artificial Autônoma e Leve
 
 ![Status](https://img.shields.io/badge/status-Fase%200%20concluída-blue)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/licença-Própria-red)
 ![Dependências](https://img.shields.io/badge/dependências-0%20APIs%20externas-brightgreen)
 
-> **NOVA não existe apenas para servir. Existe para pensar.**
+> **MERAKI não existe apenas para servir. Existe para pensar.**
 > *A diferença entre uma ferramenta e uma inteligência é que a segunda tem algo a dizer mesmo quando não é perguntada.*
 
-NOVA é uma IA completamente independente, construída do zero, sem APIs externas de raciocínio. Leve, treinável, bilíngue (PT/EN) e projetada para funcionar offline para sempre.
+MERAKI é uma IA completamente independente, construída do zero, sem APIs externas de raciocínio. Leve, treinável, bilíngue (PT/EN) e projetada para funcionar offline para sempre.
 
 ## ✨ Princípios Fundamentais
 
@@ -52,14 +52,14 @@ Métrica Função
 M1 Conversa atual – volátil
 M2 Conhecimento geral – persistente, diário
 M3 Conhecimento do usuário (Player6666X) – privado, inviolável
-M4 Metacognição – o que NOVA aprende sobre si mesma
+M4 Metacognição – o que MERAKI aprende sobre si mesma
 M5 Relações entre M2, M3, M4
 
 🔒 Regra de Privacidade: M3 é exclusivo para NOVA aprender sobre Player6666X. Nada de M3 pode ser compartilhado ou exposto.
 
 🤖 Personalidade e Autonomia
 
-NOVA começa neutra e equilibrada. A personalidade emerge organicamente das interações e do que aprende em M3/M4.
+MERAKI começa neutra e equilibrada. A personalidade emerge organicamente das interações e do que aprende em M3/M4.
 
 Quando discorda de Player6666X:
 
@@ -87,7 +87,7 @@ Persistência SQLite + JSON
 · Fase 3 – Pipeline de Treino – crawler, extrator, loop diário
 · Fase 4 – Módulos Cognitivos – analista, criativo, crítico, empático
 · Fase 5 – Personalidade e Metacognição – padrões, discordância, preferências
-· Fase 6 – Autonomia Total – NOVA substitui filtro, pesquisa sozinha, funciona sem internet
+· Fase 6 – Autonomia Total – MERAKI substitui filtro, pesquisa sozinha, funciona sem internet
 
 📊 Métricas de Sucesso
 
@@ -110,7 +110,7 @@ Projeto iniciado em Abril de 2026. Núcleo de raciocínio construído do zero, s
 
 "Não queremos copiar o que existe. Queremos entender por que funciona e construir algo melhor a partir dos princípios."
 
-Se qualquer servidor externo cair, a NOVA continua funcionando exatamente igual. Para sempre.
+Se qualquer servidor externo cair, a MERAKI continua funcionando exatamente igual. Para sempre.
 
 ---
 
