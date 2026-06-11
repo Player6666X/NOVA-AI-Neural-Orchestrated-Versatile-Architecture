@@ -1,3 +1,6 @@
+(aviso - o nome foi alterado para prevenir confusões, o nome atual da IA é
+M.E.R.A.K.I - Modular Emergente Reasoning Architecture with Kinetic Intellingence)
+
 ```markdown
 # MERAKI — Inteligência Artificial Autônoma e Leve
 
